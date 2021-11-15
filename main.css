@@ -1,0 +1,241 @@
+@charset "UTF-8";
+/* CSS Document */
+*{
+    margin: 0;
+    padding: 0;
+}
+.A{
+    background-color: white;
+    padding:0% 3%;
+    padding-top:10px;
+    padding-bottom:10px;
+    height: 60px;
+    position:relative;
+    box-shadow:0px 4px 15px 0px rgb(0 0 0/10%)
+}
+.A img{
+    height: 60px;
+    float:left;
+    margin-bottom:5px;
+}
+.A ul{
+    font-size: 15px;
+}
+.Amenu{
+    position:absolute;
+    width:97%;
+    text-align:center;
+    margin: 20px 0;
+}
+.A ul li{
+    display:inline;
+    padding: 0 15px;
+    color:gray;
+}
+.A ul li:hover{
+    color:black;
+}
+.giving{
+    color:orange !important;
+}
+.giving:hover{
+    color:black !important;
+}
+.Abutton{
+    float:right;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color:white;
+    border: 1px solid rgba(1,1,76,1.00);
+    margin:10px 0px;
+}
+.Abutton:hover{
+    background-color:black;
+    color:white;
+}
+.Lastest{
+    background:rgba(244, 245, 247, 0.5); 
+    color:white;
+    font-size:12px;
+    border-radius:12px;
+    padding:8px;
+    font-weight:bold;
+}
+.B{
+    background-color:rgba(208,208,208,1.00)  ;
+    margin: 30px 15%;
+    border-radius: 20px;
+}
+.B3 img{
+    width:100%;
+    border-radius: 20px;
+}
+.B3{
+    position:relative;
+    box-shadow: 0px 4px 15px 0px rgb(0 0 0 /20%);
+    border-radius: 20px;
+}
+.BA{
+    position: absolute;
+    z-index:1;
+    margin-top: 400px;
+    margin-left: 20px;
+}
+.stop{
+    padding: 10px 0px 10px 3px;
+    color: white;
+}
+
+.B21{
+    Padding:15px;
+    border-radius:10px;
+    background-color:orangered;
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+    border:none;
+}
+.B21:hover{
+    transform: scale(1.05);
+}
+.B22{
+    Padding:13px;
+    border-radius:10px;
+    background-color:transparent;
+    color:white;
+    font-weight: bold;
+    font-size:15px;
+    border: 2px solid white;
+    margin-left:10px;
+}
+.B22:hover{
+    transform: scale(1.05);
+}
+.middle{
+    margin: 35px 5% -35px 15%;
+}
+.C{
+    margin: 50px 15%;
+}
+.C1{
+    width:70%;
+    float:left;
+}
+.C11i{
+    width:100%;
+    border-radius: 20px;
+}
+.C2{
+    width:30%;
+    float:right;
+}
+.C11text{
+    position:absolute;
+    margin-top: 260px;
+    margin-left: 20px;
+}
+.C11img{
+    position: relative;
+    z-index: -1;
+    box-shadow: 0px 4px 15px 0px rgb(0 0 0 /20%);
+    border-radius: 20px;  
+}
+.C11t{
+    color:white;
+}
+.C11c{
+    color:white;
+    padding:0px 0 10px 0;
+}
+.C11b{
+    Padding:15px;
+    border-radius:10px;
+    background-color:white;
+    color:black;
+    font-weight: bold;
+    font-size:15px;
+    border:none;
+}
+.C11b:hover{
+    transform: scale(1.05);
+}
+.C12i{
+    width:100%;
+    border-radius: 20px;
+}
+.C12text{
+    position:absolute;
+    margin-top: 260px;
+    margin-left: 20px;
+}
+.C12img{
+    position: relative;
+    z-index: -1;
+    box-shadow: 0px 4px 15px 0px rgb(0 0 0 /20%);
+    border-radius: 20px;  
+}
+.C12t{
+    color:white;
+}
+.C12c{
+    color:white;
+    padding:0px 0 10px 0;
+}
+.C12b{
+    Padding:15px;
+    border-radius:10px;
+    background-color:white;
+    color:black;
+    font-weight: bold;
+    font-size:15px;
+    border:none;
+}
+.C12b:hover{
+    transform: scale(1.05);
+}
+.C13i{
+    width:100%;
+    border-radius: 20px;
+}
+.C13text{
+    position:absolute;
+    margin-top: 260px;
+    margin-left: 20px;
+}
+.C13img{
+    position: relative;
+    z-index: -1;
+    box-shadow: 0px 4px 15px 0px rgb(0 0 0 /20%);
+    border-radius: 20px;  
+}
+.C13t{
+    color:white;
+}
+.C13c{
+    color:white;
+    padding:0px 0 10px 0;
+}
+.C13b{
+    Padding:15px;
+    border-radius:10px;
+    background-color:white;
+    color:black;
+    font-weight: bold;
+    font-size:15px;
+    border:none;
+}
+.C13b:hover{
+    transform: scale(1.05);
+}
+.C11,.C12,.C12{
+    padding-bottom: 25px;
+}
+.C21{
+    width:81%;
+    margin-left:5%;
+    background-color:white;
+    border-radius:10px;
+    box-shadow: 0px 4px 15px 0px rgb(0 0 0 /20%);
+    padding:7%;
+}
